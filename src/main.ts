@@ -1,4 +1,4 @@
-import { charmander } from './bases/04-injecao';
+import { charmander } from './bases/06-decorators';
 import './style.css';
 
 
